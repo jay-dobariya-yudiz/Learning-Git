@@ -1,0 +1,25 @@
+install git from  Git’s official website. : https://git-scm.com/
+
+-check its version and check its installed or not
+git --version
+
+-Setup Your Email and Name in terminal 
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+
+-Create a new local repository
+git init
+
+Basic Workflow
+
+-Check the status of the repository
+git status
+
+-Add files to the staging area
+git add filename
+git add .  # Adds all files
+
+-Commit changes to the repository
+git commit -m "Commit message"
+
+
