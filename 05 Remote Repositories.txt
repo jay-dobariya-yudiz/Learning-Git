@@ -1,0 +1,5 @@
+-List all remotes
+git remote -v
+
+-Add a remote repository
+git remote add origin repository_url
