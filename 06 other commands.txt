@@ -1,0 +1,6 @@
+-Clone a repository
+git clone <url>
+
+-Pull the latest changes from the upstream repository
+git pull upstream main
+
