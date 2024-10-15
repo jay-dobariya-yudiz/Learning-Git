@@ -8,4 +8,4 @@ git branch branch_name
 git checkout branch_name
 
 -Create and switch to a new branch in one command:
-git checkout -b branch_name
+git checkout -b branch_name 
