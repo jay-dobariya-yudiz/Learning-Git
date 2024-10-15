@@ -7,6 +7,9 @@ git branch branch_name
 -Switch to a branch:
 git checkout branch_name
 
+-Rename a branch:
+git branch -m branch_name
+
 -Create and switch to a new branch in one command:
 git checkout -b branch_name 
 
@@ -16,3 +19,12 @@ git merge branch_name
 -Revert a commit
 git revert commit_hash
 -This creates a new commit that undoes the changes of a specific commit.
+
+-git pull take code from github and merge it into your working directory
+git pull origin
+
+-git fetch take code from github and save it into your local, you have to merge this code into working directory
+git merge
+
+simpally 
+pull = fetch + merge

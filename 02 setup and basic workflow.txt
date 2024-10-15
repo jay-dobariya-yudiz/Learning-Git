@@ -19,6 +19,10 @@ git status
 git add filename
 git add .  # Adds all files
 
+
+-Add and commit at same time 
+git commit -am "message"
+
 -Commit changes to the repository
 git commit -m "Commit message"
 
