@@ -1,0 +1,11 @@
+-Restore a File from the Last Commit:
+git restore filename.txt
+-This restores filename.txt to its state from the last commit, discarding any local changes.
+
+-Restore a Staged File to the Working Directory:
+git restore --staged filename.txt
+-This unstages filename.txt, moving it back to the working directory while keeping your changes intact.
+
+-if you commit by mistake and unstages this commit so copy a hash of one uper commit
+git reset "Hash key"
+- is it also okay if you put only first 4 ch of hash key
