@@ -1,0 +1,3 @@
+Git : Git is a free, open-source version control system (VCS) that allows developers to work together on projects
+
+Github : GitHub is a web-based platform that allows users to collaborate on code, web pages, and other content.
